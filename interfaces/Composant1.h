@@ -8,6 +8,9 @@
 	#define COMPOSANT1_INTERFACE __declspec(dllimport)
 #endif
 
+#ifdef COMPOSANT3_EXPORTS
+	#define COMPOSANT3_INTERFACE __declspec(dllimport)
+#endif
 
 
 // interface du composant1
