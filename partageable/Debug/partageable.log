@@ -1,2 +1,3 @@
 ﻿  main.cpp
-  partageable.vcxproj -> C:\Users\InvitéASUS\Downloads\partageable-master\partageable-master\partageable-master\Debug\partageable.exe
+d:\othmane\dauphine\tp_projet\programmation_par_composant\partageable\partageable\partageable\main.cpp(19): warning C4101: 'valeur4' : variable locale non référencée
+  partageable.vcxproj -> D:\Othmane\Dauphine\TP_Projet\Programmation_par_composant\partageable\partageable\Debug\partageable.exe

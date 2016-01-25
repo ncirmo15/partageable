@@ -1,2 +1,5 @@
-﻿     Création de la bibliothèque C:\Users\InvitéASUS\Downloads\partageable-master\partageable-master\partageable-master\Debug\Composant3.lib et de l'objet C:\Users\InvitéASUS\Downloads\partageable-master\partageable-master\partageable-master\Debug\Composant3.exp
-  Composant3.vcxproj -> C:\Users\InvitéASUS\Downloads\partageable-master\partageable-master\partageable-master\Debug\Composant3.dll
+﻿  stdafx.cpp
+  Composant3.cpp
+  dllmain.cpp
+     Création de la bibliothèque D:\Othmane\Dauphine\TP_Projet\Programmation_par_composant\partageable\partageable\Debug\Composant3.lib et de l'objet D:\Othmane\Dauphine\TP_Projet\Programmation_par_composant\partageable\partageable\Debug\Composant3.exp
+  Composant3.vcxproj -> D:\Othmane\Dauphine\TP_Projet\Programmation_par_composant\partageable\partageable\Debug\Composant3.dll
